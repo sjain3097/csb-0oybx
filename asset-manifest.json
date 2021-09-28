@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://sjain3097.github.io/csb-0oybx/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://sjain3097.github.io/csb-0oybx/static/js/main.d614c1ce.chunk.js",
-    "main.js.map": "https://sjain3097.github.io/csb-0oybx/static/js/main.d614c1ce.chunk.js.map",
+    "main.css": "https://sjain3097.github.io/csb-0oybx/static/css/main.bdcbf33f.chunk.css",
+    "main.js": "https://sjain3097.github.io/csb-0oybx/static/js/main.d9be7c34.chunk.js",
+    "main.js.map": "https://sjain3097.github.io/csb-0oybx/static/js/main.d9be7c34.chunk.js.map",
     "runtime-main.js": "https://sjain3097.github.io/csb-0oybx/static/js/runtime-main.2c6ee4ca.js",
     "runtime-main.js.map": "https://sjain3097.github.io/csb-0oybx/static/js/runtime-main.2c6ee4ca.js.map",
     "static/css/2.437c4f0a.chunk.css": "https://sjain3097.github.io/csb-0oybx/static/css/2.437c4f0a.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.c69b4363.chunk.js.map": "https://sjain3097.github.io/csb-0oybx/static/js/2.c69b4363.chunk.js.map",
     "index.html": "https://sjain3097.github.io/csb-0oybx/index.html",
     "static/css/2.437c4f0a.chunk.css.map": "https://sjain3097.github.io/csb-0oybx/static/css/2.437c4f0a.chunk.css.map",
-    "static/css/main.f29ae65a.chunk.css.map": "https://sjain3097.github.io/csb-0oybx/static/css/main.f29ae65a.chunk.css.map",
+    "static/css/main.bdcbf33f.chunk.css.map": "https://sjain3097.github.io/csb-0oybx/static/css/main.bdcbf33f.chunk.css.map",
     "static/js/2.c69b4363.chunk.js.LICENSE.txt": "https://sjain3097.github.io/csb-0oybx/static/js/2.c69b4363.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2c6ee4ca.js",
     "static/css/2.437c4f0a.chunk.css",
     "static/js/2.c69b4363.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.d614c1ce.chunk.js"
+    "static/css/main.bdcbf33f.chunk.css",
+    "static/js/main.d9be7c34.chunk.js"
   ]
 }
