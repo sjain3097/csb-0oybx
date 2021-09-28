@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sjain3097.github.io/csb-0oybx/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://sjain3097.github.io/csb-0oybx/static/js/main.4d5652db.chunk.js",
-    "main.js.map": "https://sjain3097.github.io/csb-0oybx/static/js/main.4d5652db.chunk.js.map",
+    "main.js": "https://sjain3097.github.io/csb-0oybx/static/js/main.cb6890c0.chunk.js",
+    "main.js.map": "https://sjain3097.github.io/csb-0oybx/static/js/main.cb6890c0.chunk.js.map",
     "runtime-main.js": "https://sjain3097.github.io/csb-0oybx/static/js/runtime-main.2c6ee4ca.js",
     "runtime-main.js.map": "https://sjain3097.github.io/csb-0oybx/static/js/runtime-main.2c6ee4ca.js.map",
     "static/css/2.437c4f0a.chunk.css": "https://sjain3097.github.io/csb-0oybx/static/css/2.437c4f0a.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.437c4f0a.chunk.css",
     "static/js/2.c69b4363.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.4d5652db.chunk.js"
+    "static/js/main.cb6890c0.chunk.js"
   ]
 }
